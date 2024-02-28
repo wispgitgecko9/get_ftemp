@@ -9,3 +9,6 @@ This Bash command retrieves and converts the CPU temperature on a Raspberry Pi f
 **Tested On:**
 - Raspberry Pi Model: B3
 - Operating System: Raspbian Bookworm (Debian GNU/Linux Version 12)
+
+*NOTE:*
+Please be aware that this script was created independently, and no code was copied from any other source or repository aside from examples. If this code appears similar to any other code, it was not taken from there.
